@@ -4,18 +4,15 @@
     margin-top: -20vh;
 }
 
-.heading-secondary {
-    font-size: 3.5rem;
-    text-transform: uppercase;
-    font-weight: 700;
-    background-image: linear-gradient(to right,$color-primary-light,$color-primary-dark);
-    display: inline-block;
-    -webkit-background-clip: text;
-    color:transparent;
-    transition: all .2s;
-    letter-spacing: 2px;
-    &:hover {
-        transform: skewX(5deg) skewY(5deg) scale(1.1);
-        text-shadow: .5rem 1rem 2rem rgba($color-primary-dark,.2);
+.section-features {
+    padding: 20rem 0;
+    background-image: linear-gradient(to right bottom,rgba($color-primary-light,0.795),rgba($color-primary-dark,0.801)), url("../img/nat-4.jpg");
+    background-size: cover;
+    transform: skewY(-7deg);
+    margin-top: -10rem;
+    & > * {
+        transform: skewY(7deg);
     }
+
 }
+
