@@ -15,6 +15,9 @@
     &__logo {
         width: 15rem;
         height: auto;
+        @include respond(tab-port){
+            margin-bottom: 6rem;
+        }
     }
 
     &__navigation {
