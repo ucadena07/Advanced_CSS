@@ -11,3 +11,9 @@
 ---
 ## Trillio Project
 ![alt text](https://github.com/ucadena07/Advanced_CSS/blob/main/Natours/img/twilio.png)
+--
+## Nexter Project
+![alt text](https://github.com/ucadena07/Advanced_CSS/blob/main/Natours/img/nexterHeader.png)
+![alt text](https://github.com/ucadena07/Advanced_CSS/blob/main/Natours/img/nexterStories.png)
+![alt text](https://github.com/ucadena07/Advanced_CSS/blob/main/Natours/img/nexterHouses.png)
+![alt text](https://github.com/ucadena07/Advanced_CSS/blob/main/Natours/img/nexterGallery.png)
